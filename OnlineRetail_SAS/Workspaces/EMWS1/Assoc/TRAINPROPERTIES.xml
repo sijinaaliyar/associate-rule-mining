@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?><_ROOT_  ItemCount="4" AssocSupportType="PERCENT" SeqSupportType="PERCENT" SupportA="." MinConf="70"
+ PctsupA="15" PctsupS="1" SupportS="." ChainCount="6" ConsolTime="0" MaxDur="." Criterion="LIFT"
+ NumRules="200" NumTransposeRules="200" MaxItems="100000" ExportIdRule="Y" Recommendation="Y"
+ ForceRun="N" RunAction="Train" Component="Association" RawCreateTime="1956313750"
+ CreateTime="28DEC2021:12:29:10" RunId="4ba14650-c9e3-4fdd-a078-3b170edf35d1" RawLastTimeRun="1957880475.9"
+ RawRunTime="2.6719999313" LastTimeRun="15JAN2022:15:41:16" RunTime="0 Hr. 0 Min. 2.67 Sec."
+>
+<VARIABLEPROPERTIES/>
+<FILEPROPERTIES ><![CDATA[
+RULESFILTER
+]]>
+</FILEPROPERTIES></_ROOT_>

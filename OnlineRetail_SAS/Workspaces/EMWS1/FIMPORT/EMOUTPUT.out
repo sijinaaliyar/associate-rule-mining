@@ -1,0 +1,86 @@
+*------------------------------------------------------------*
+User:                hp
+Date:                December 30, 2021
+Time:                02:13:14
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+            Measurement    Frequency
+Role           Level         Count
+ 
+ID           INTERVAL          1
+REJECTED     INTERVAL          3
+TARGET       NOMINAL           1
+ 
+ 
+ 
+ 
+ 
+The CONTENTS Procedure
+ 
+Data Set Name        EMWS1.FIMPORT_DATA            Observations          324981
+Member Type          DATA                          Variables             5
+Engine               V9                            Indexes               0
+Created              12/30/2021 02:13:12           Observation Length    72
+Last Modified        12/30/2021 02:13:12           Deleted Observations  0
+Protection                                         Compressed            NO
+Data Set Type                                      Sorted                NO
+Label
+Data Representation  WINDOWS_32
+Encoding             wlatin1  Western (Windows)
+ 
+ 
+                                                 Engine/Host Dependent Information
+ 
+Data Set Page Size          65536
+Number of Data Set Pages    358
+First Data Page             1
+Max Obs per Page            908
+Obs in First Data Page      886
+Number of Data Set Repairs  0
+ExtendObsCounter            YES
+Filename                    D:\Msc Data Science\CourseWorks\ASDM\Association\OnlineRetail_SAS\Workspaces\EMWS1\fimport_data.sas7bdat
+Release Created             9.0401M5
+Host Created                W32_10HOME
+Owner Name                  LAPTOP-7G2D9J4T\hp
+File Size                   22MB
+File Size (bytes)           23527424
+ 
+ 
+      Alphabetic List of Variables and Attributes
+ 
+#    Variable       Type    Len    Format     Informat
+ 
+4    Description    Char     35    $35.       $35.
+2    InvoiceNo      Num       8    BEST12.    BEST32.
+5    Quantity       Num       8    BEST12.    BEST32.
+3    StockCode      Num       8    BEST12.    BEST32.
+1    VAR1           Num       8    BEST12.    BEST32.
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Exported Attributes for TRAIN Port
+ 
+            Measurement    Frequency
+Role           Level         Count
+ 
+ID           INTERVAL          1
+REJECTED     INTERVAL          3
+TARGET       NOMINAL           1

@@ -1,0 +1,110 @@
+*------------------------------------------------------------*
+User:                hp
+Date:                January 15, 2022
+Time:                15:41:18
+*------------------------------------------------------------*
+* Training Output
+*------------------------------------------------------------*
+ 
+ 
+ 
+ 
+Variable Summary
+ 
+          Measurement    Frequency
+Role         Level         Count
+ 
+ID         INTERVAL          1
+TARGET     NOMINAL           1
+ 
+ 
+ 
+ 
+Association Report
+ 
+              Expected
+             Confidence    Confidence    Support              Transaction
+Relations       (%)           (%)          (%)        Lift       Count       Rule                                                                                                    Left Hand of Rule
+ 
+      2          2.45         75.43        1.35      30.74      221.00       TOILET METAL SIGN ==> BATHROOM METAL SIGN                                                               TOILET METAL SIGN
+      2          2.65         74.81        1.83      28.25      300.00       WOODEN STAR CHRISTMAS SCANDINAVIAN ==> WOODEN HEART CHRISTMAS SCANDINAVIAN                              WOODEN STAR CHRISTMAS SCANDINAVIAN
+      3          3.73         89.03        2.08      23.90      341.00       ROSES REGENCY TEACUP AND SAUCER & PINK REGENCY TEACUP AND SAUCER ==> GREEN REGENCY TEACUP AND SAUCER    ROSES REGENCY TEACUP AND SAUCER & PINK REGENCY TEACUP AND SAUCER
+      3          3.00         71.65        1.40      23.87      230.00       REGENCY CAKESTAND 3 TIER & GREEN REGENCY TEACUP AND SAUCER ==> PINK REGENCY TEACUP AND SAUCER           REGENCY CAKESTAND 3 TIER & GREEN REGENCY TEACUP AND SAUCER
+      3          3.00         71.64        2.08      23.87      341.00       ROSES REGENCY TEACUP AND SAUCER & GREEN REGENCY TEACUP AND SAUCER ==> PINK REGENCY TEACUP AND SAUCER    ROSES REGENCY TEACUP AND SAUCER & GREEN REGENCY TEACUP AND SAUCER
+      3          3.73         86.79        1.40      23.29      230.00       REGENCY CAKESTAND 3 TIER & PINK REGENCY TEACUP AND SAUCER ==> GREEN REGENCY TEACUP AND SAUCER           REGENCY CAKESTAND 3 TIER & PINK REGENCY TEACUP AND SAUCER
+      2          3.73         81.95        2.46      21.99      404.00       PINK REGENCY TEACUP AND SAUCER ==> GREEN REGENCY TEACUP AND SAUCER                                      PINK REGENCY TEACUP AND SAUCER
+      3          4.13         84.91        1.37      20.57      225.00       REGENCY CAKESTAND 3 TIER & PINK REGENCY TEACUP AND SAUCER ==> ROSES REGENCY TEACUP AND SAUCER           REGENCY CAKESTAND 3 TIER & PINK REGENCY TEACUP AND SAUCER
+      3          4.13         84.41        2.08      20.45      341.00       PINK REGENCY TEACUP AND SAUCER & GREEN REGENCY TEACUP AND SAUCER ==> ROSES REGENCY TEACUP AND SAUCER    PINK REGENCY TEACUP AND SAUCER & GREEN REGENCY TEACUP AND SAUCER
+      3          3.73         75.28        1.61      20.20      265.00       ROSES REGENCY TEACUP AND SAUCER & REGENCY CAKESTAND 3 TIER ==> GREEN REGENCY TEACUP AND SAUCER          ROSES REGENCY TEACUP AND SAUCER & REGENCY CAKESTAND 3 TIER
+      3          4.13         82.55        1.61      20.00      265.00       REGENCY CAKESTAND 3 TIER & GREEN REGENCY TEACUP AND SAUCER ==> ROSES REGENCY TEACUP AND SAUCER          REGENCY CAKESTAND 3 TIER & GREEN REGENCY TEACUP AND SAUCER
+      2          3.73         70.21        2.90      18.84      476.00       ROSES REGENCY TEACUP AND SAUCER ==> GREEN REGENCY TEACUP AND SAUCER                                     ROSES REGENCY TEACUP AND SAUCER
+      2          4.13         77.78        2.90      18.84      476.00       GREEN REGENCY TEACUP AND SAUCER ==> ROSES REGENCY TEACUP AND SAUCER                                     GREEN REGENCY TEACUP AND SAUCER
+      2          4.13         77.69        2.33      18.82      383.00       PINK REGENCY TEACUP AND SAUCER ==> ROSES REGENCY TEACUP AND SAUCER                                      PINK REGENCY TEACUP AND SAUCER
+      3          4.61         76.45        1.28      16.57      211.00       ALARM CLOCK BAKELIKE PINK & ALARM CLOCK BAKELIKE GREEN ==> ALARM CLOCK BAKELIKE RED                     ALARM CLOCK BAKELIKE PINK & ALARM CLOCK BAKELIKE GREEN
+      2          4.40         71.98        1.60      16.37      262.00       BAKING SET SPACEBOY DESIGN ==> BAKING SET 9 PIECE RETROSPOT                                             BAKING SET SPACEBOY DESIGN
+      2          4.52         73.05        2.79      16.17      458.00       GARDENERS KNEELING PAD CUP OF TEA ==> GARDENERS KNEELING PAD KEEP CALM                                  GARDENERS KNEELING PAD CUP OF TEA
+      3          6.82         74.13        1.29      10.87      212.00       LUNCH BAG WOODLAND & LUNCH BAG PINK POLKADOT ==> LUNCH BAG RED RETROSPOT                                LUNCH BAG WOODLAND & LUNCH BAG PINK POLKADOT
+      2          7.91         72.54        1.48       9.16      243.00       PAINTED METAL PEARS ASSORTED ==> ASSORTED COLOUR BIRD ORNAMENT                                          PAINTED METAL PEARS ASSORTED
+ 
+ 
+                                                                                                                                                                                               Rule      Rule
+Right Hand of Rule                     Rule Item 1                           Rule Item 2                            Rule Item 3                                      Rule Item 4              Item 5    Index
+ 
+BATHROOM METAL SIGN                    TOILET METAL SIGN                     ==================================>    BATHROOM METAL SIGN                                                                    1
+WOODEN HEART CHRISTMAS SCANDINAVIAN    WOODEN STAR CHRISTMAS SCANDINAVIAN    ==================================>    WOODEN HEART CHRISTMAS SCANDINAVIAN                                                    2
+GREEN REGENCY TEACUP AND SAUCER        ROSES REGENCY TEACUP AND SAUCER       PINK REGENCY TEACUP AND SAUCER         ==================================>    GREEN REGENCY TEACUP AND SAUCER                 3
+PINK REGENCY TEACUP AND SAUCER         REGENCY CAKESTAND 3 TIER              GREEN REGENCY TEACUP AND SAUCER        ==================================>    PINK REGENCY TEACUP AND SAUCER                  4
+PINK REGENCY TEACUP AND SAUCER         ROSES REGENCY TEACUP AND SAUCER       GREEN REGENCY TEACUP AND SAUCER        ==================================>    PINK REGENCY TEACUP AND SAUCER                  5
+GREEN REGENCY TEACUP AND SAUCER        REGENCY CAKESTAND 3 TIER              PINK REGENCY TEACUP AND SAUCER         ==================================>    GREEN REGENCY TEACUP AND SAUCER                 6
+GREEN REGENCY TEACUP AND SAUCER        PINK REGENCY TEACUP AND SAUCER        ==================================>    GREEN REGENCY TEACUP AND SAUCER                                                        7
+ROSES REGENCY TEACUP AND SAUCER        REGENCY CAKESTAND 3 TIER              PINK REGENCY TEACUP AND SAUCER         ==================================>    ROSES REGENCY TEACUP AND SAUCER                 8
+ROSES REGENCY TEACUP AND SAUCER        PINK REGENCY TEACUP AND SAUCER        GREEN REGENCY TEACUP AND SAUCER        ==================================>    ROSES REGENCY TEACUP AND SAUCER                 9
+GREEN REGENCY TEACUP AND SAUCER        ROSES REGENCY TEACUP AND SAUCER       REGENCY CAKESTAND 3 TIER               ==================================>    GREEN REGENCY TEACUP AND SAUCER                10
+ROSES REGENCY TEACUP AND SAUCER        REGENCY CAKESTAND 3 TIER              GREEN REGENCY TEACUP AND SAUCER        ==================================>    ROSES REGENCY TEACUP AND SAUCER                11
+GREEN REGENCY TEACUP AND SAUCER        ROSES REGENCY TEACUP AND SAUCER       ==================================>    GREEN REGENCY TEACUP AND SAUCER                                                       12
+ROSES REGENCY TEACUP AND SAUCER        GREEN REGENCY TEACUP AND SAUCER       ==================================>    ROSES REGENCY TEACUP AND SAUCER                                                       13
+ROSES REGENCY TEACUP AND SAUCER        PINK REGENCY TEACUP AND SAUCER        ==================================>    ROSES REGENCY TEACUP AND SAUCER                                                       14
+ALARM CLOCK BAKELIKE RED               ALARM CLOCK BAKELIKE PINK             ALARM CLOCK BAKELIKE GREEN             ==================================>    ALARM CLOCK BAKELIKE RED                       15
+BAKING SET 9 PIECE RETROSPOT           BAKING SET SPACEBOY DESIGN            ==================================>    BAKING SET 9 PIECE RETROSPOT                                                          16
+GARDENERS KNEELING PAD KEEP CALM       GARDENERS KNEELING PAD CUP OF TEA     ==================================>    GARDENERS KNEELING PAD KEEP CALM                                                      17
+LUNCH BAG RED RETROSPOT                LUNCH BAG WOODLAND                    LUNCH BAG PINK POLKADOT                ==================================>    LUNCH BAG RED RETROSPOT                        18
+ASSORTED COLOUR BIRD ORNAMENT          PAINTED METAL PEARS ASSORTED          ==================================>    ASSORTED COLOUR BIRD ORNAMENT                                                         19
+ 
+ 
+ 
+ 
+Rule Statistics
+ 
+The MEANS Procedure
+ 
+Variable    Label                          Minimum         Maximum            Mean
+----------------------------------------------------------------------------------
+EXP_CONF    Expected Confidence(%)       2.4535769       7.9147641       4.1387487
+CONF        Confidence(%)               70.2064897      89.0339426      77.4874648
+SUPPORT     Support(%)                   1.2846271       2.8980213       1.8854442
+LIFT        Lift                         9.1648106      30.7414951      20.1464177
+----------------------------------------------------------------------------------
+ 
+ 
+ 
+Sequence Report
+ 
+The FREQ Procedure
+ 
+                          Relations
+ 
+                                     Cumulative    Cumulative
+SET_SIZE    Frequency     Percent     Frequency      Percent
+-------------------------------------------------------------
+       2           9       47.37             9        47.37
+       3          10       52.63            19       100.00
+
+
+*------------------------------------------------------------*
+* Score Output
+*------------------------------------------------------------*
+
+
+*------------------------------------------------------------*
+* Report Output
+*------------------------------------------------------------*
